@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (rename as needed)
+instance/
+config.py
+
+# Environment variables file
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension files
+*.so
+
+# Logs and databases
+*.log
+*.db
+
+# Virtual environment
+venv/
+
+
+# System files
+.DS_Store
+Thumbs.db
